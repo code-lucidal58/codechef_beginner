@@ -1,3 +1,8 @@
+/***************************
+An array of size n+1 is taken and elements are filled from index 1 to n. It is checked
+for the condition a[a[i]] == i. This is the conde statements that represents the
+condition given in the question. 
+***************************/
 #include<cstdio>
 using namespace std;
 int main()
