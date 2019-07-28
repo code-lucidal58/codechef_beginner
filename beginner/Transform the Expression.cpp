@@ -1,6 +1,7 @@
 /***************************
 Programmer: Aanisha Mishra
 Concept of stack is used here to resolve the brackets
+Near implementation of postfix expression
 ***************************/
 #include<cstdio>
 #include<ctype.h>
