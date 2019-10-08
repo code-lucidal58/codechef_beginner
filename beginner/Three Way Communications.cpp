@@ -4,7 +4,7 @@ distance between the three people will form a triangle whose sides be sqrt(d1), 
 will render approximate float value, which will be difficult to compare with the required maximum distance.
 So we take R=R*R and compare it with d1,d2,d3. In only two cases they will be able to communicate with each other.
 Case1: when all distances are less than R.
-Case2: when atleast two of them are at a distance less than R. So the third person can use the later's transceiver
+Case2: when atleast two of them(d1, d2, d3) are less than R. So the third person can use the later's transceiver
 to communicate.
 ***************************/
 #include<bits/stdc++.h>
