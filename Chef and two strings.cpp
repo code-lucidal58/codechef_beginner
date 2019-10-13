@@ -8,7 +8,7 @@ Or else I can replace ? with some character other than s2[i], then I will increm
 Case3 : s1[i]=some character s2[i]=? this case is same as above where maxd is incremented
 Case4 : s1[i]=? s2[i]=? If we replace ?s with different character, we will maximize difference i.e. maxd++
 Case5 : s1[i]!=s2[i] this will be counted in both, maximum difference as well as minimum difference as no
-character can be altered.
+
 ***************************/
 #include<bits/stdc++.h>
 using namespace std;
@@ -35,4 +35,3 @@ int main()
     }
     return 0;
 }
-
