@@ -1,5 +1,6 @@
 /***************************
 Programmer: Aanisha Mishra
+If number is divisible by 4, increment it by 1, otherwise decrement it.
 ***************************/
 #include <bits/stdc++.h>
 using namespace std;
