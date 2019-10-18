@@ -3,7 +3,6 @@ Programmer: Aanisha Mishra
 Out of the four possible directions, the bot can be given only one directioon. A
 directioon change is not permitted. Hence, if change is required, bot cannot reach home
 hence will be sad. Direction is decided using coordinate geometry.
-}
 ***************************/
 #include <bits/stdc++.h>
 using namespace std;
